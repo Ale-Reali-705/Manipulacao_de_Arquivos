@@ -1,0 +1,13 @@
+ID, year, gender, name, number
+1, 1950, M, João, 45
+2, 2020, F, Maria, 15
+3, 1902, F, Bruna, 39
+4, 1839, F, Ana, 17
+5, 1025, M, Carlos, 03
+6, 2025, F, Clara, 61
+7, 2036, F, Pietra, 73
+8, 1507, F, Joana, 40
+9, 1080, M, Lucas, 09
+10, 1966, M, José, 24
+11, 1083, M, Lucas, 18
+12, 2020, F, Maria, 15
